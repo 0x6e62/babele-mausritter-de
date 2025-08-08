@@ -7,11 +7,19 @@
     "name": "0x6e62"
     }
   ],
-  "version": "0.1",
+  "version": "0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
   },
+  "systems": [
+    "mausritter"
+  ],
+  "minimumSystemVersion": "0.3.21",
+  "dependencies": [{
+    "name": "babele",
+    "type": "module"
+  }],
   "esmodules": [
     "register.js"
   ],
