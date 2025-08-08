@@ -1,0 +1,38 @@
+{
+  "label": "Kreaturen",
+  "entries": {
+    "Ghost": {
+      "name": "Geist"
+    },
+    "Rat": {
+      "name": "Ratte"
+    },
+    "Spider": {
+      "name": "Spinne"
+    },
+    "Snake": {
+      "name": "Schlange"
+    },
+    "Cat": {
+      "name": "Katze"
+    },
+    "Mouse": {
+      "name": "Maus"
+    },
+    "Faerie": {
+      "name": "Feenwesen"
+    },
+    "Owl": {
+      "name": "Eule"
+    },
+    "Frog": {
+      "name": "Frosch"
+    },
+    "Crow": {
+      "name": "Rabe"
+    },
+    "Centipede": {
+      "name": "Hundertfüßer"
+    }
+  }
+}

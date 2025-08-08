@@ -1,0 +1,11 @@
+{
+  "label": "Rüstungen",
+  "entries": {
+    "Heavy Armor": {
+      "name": "Schwere Rüstung"
+    },
+    "Light Armor": {
+      "name": "Leichte Rüstung"
+    }
+  }
+}

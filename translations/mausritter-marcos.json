@@ -1,0 +1,20 @@
+{
+  "label": "Mausritter Macros",
+  "entries": {
+    "Roll Weather": {
+      "name": "Zufälliges Wetter"
+    },
+    "Generate Hex": {
+      "name": "Zufälliges Hexfeld"
+    },
+    "NPC Generator": {
+      "name": "Zufälliger NPC"
+    },
+    "Create New Character": {
+      "name": "Neuen Charakter erstellen"
+    },
+    "Roll Stat": {
+      "name": "Probe würfeln"
+    }
+  }
+}

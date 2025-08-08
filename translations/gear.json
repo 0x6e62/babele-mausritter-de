@@ -1,0 +1,224 @@
+{
+  "label": "Ausrüstung",
+  "entries": {
+    "Glue": {
+      "name": "Kleber"
+    },
+    "Net": {
+      "name": "Netz"
+    },
+    "Book": {
+      "name": "Buch"
+    },
+    "Whistle": {
+      "name": "Pfeife"
+    },
+    "Compass": {
+      "name": "Kompass"
+    },
+    "Bottle of milk": {
+      "name": "Milchflasche"
+    },
+    "Electric Lantern": {
+      "name": "Elektrische Laterne"
+    },
+    "Bottle": {
+      "name": "Flasche"
+    },
+    "Quill & ink": {
+      "name": "Feder & Tinte"
+    },
+    "Bedroll": {
+      "name": "Schlafsack"
+    },
+    "Mirror": {
+      "name": "Spiegel"
+    },
+    "Lantern": {
+      "name": "Laterne"
+    },
+    "Metal File": {
+      "name": "Metallfeile"
+    },
+    "Cheese": {
+      "name": "Käse"
+    },
+    "Rations": {
+      "name": "Rationen"
+    },
+    "Disguise kit": {
+      "name": "Verkleidungsausrüstung"
+    },
+    "Torches": {
+      "name": "Fackeln"
+    },
+    "Goggles": {
+      "name": "Schutzbrille"
+    },
+    "Chalk": {
+      "name": "Kreide"
+    },
+    "Grease": {
+      "name": "Schmierfett"
+    },
+    "Wooden Spikes": {
+      "name": "Holzpflöcke"
+    },
+    "Shovel": {
+      "name": "Schaufel"
+    },
+    "Lens": {
+      "name": "Linse"
+    },
+    "Cookpots": {
+      "name": "Kochtöpfe"
+    },
+    "Sealed documents": {
+      "name": "Versiegelte Dokumente"
+    },
+    "Barrel of ale": {
+      "name": "Fass Bier"
+    },
+    "Shears": {
+      "name": "Schere"
+    },
+    "Necklace Chain": {
+      "name": "Halskette"
+    },
+    "Bucket": {
+      "name": "Eimer"
+    },
+    "Matchbox": {
+      "name": "Streichholzschachtel"
+    },
+    "Mushrooms": {
+      "name": "Pilze"
+    },
+    "Wire, spool": {
+      "name": "Drahtrolle"
+    },
+    "Treasure map": {
+      "name": "Schatzkarte"
+    },
+    "Bag of bat teeth": {
+      "name": "Beutel mit Fledermauszähnen"
+    },
+    "Loaded dice": {
+      "name": "Gezinkte Würfel"
+    },
+    "Moustrap": {
+      "name": "Mausefalle"
+    },
+    "Hireling: Loyal beetle": {
+      "name": "Mietling: Treuer Käfer"
+    },
+    "Chisel": {
+      "name": "Meißel"
+    },
+    "Bellows": {
+      "name": "Blasebalg"
+    },
+    "Spore Mask": {
+      "name": "Atemmaske"
+    },
+    "Waterskin": {
+      "name": "Wasserschlauch"
+    },
+    "Stones": {
+      "name": "Steine"
+    },
+    "Thread": {
+      "name": "Faden"
+    },
+    "Battery": {
+      "name": "Batterie"
+    },
+    "Arrows": {
+      "name": "Pfeile"
+    },
+    "Pip Purse": {
+      "name": "Geldbeutel"
+    },
+    "Lockpicks": {
+      "name": "Dietriche"
+    },
+    "Incense Stick": {
+      "name": "Räucherstäbchen"
+    },
+    "Hourglass": {
+      "name": "Sanduhr"
+    },
+    "Cheesewheel": {
+      "name": "Laib Köse"
+    },
+    "Holy Symbol": {
+      "name": "Heiliges Symbol"
+    },
+    "Key": {
+      "name": "Schlüssel"
+    },
+    "Scrap of obscure book": {
+      "name": "Teil eines seltsamen Buches"
+    },
+    "20p IOU from a noblemouse": {
+      "name": "20 Kerne, geliehen von adliger Maus"
+    },
+    "Instrument": {
+      "name": "Instrument"
+    },
+    "Dice": {
+      "name": "Würfel"
+    },
+    "Perfume": {
+      "name": "Parfüm"
+    },
+    "Hammer": {
+      "name": "Hammer"
+    },
+    "Poison": {
+      "name": "Gift"
+    },
+    "Hireling": {
+      "name": "Mietling"
+    },
+    "Drill": {
+      "name": "Bohrer"
+    },
+    "Hireling: Drunken torchbearer": {
+      "name": "Mietling: Betrunkener Fackelträger"
+    },
+    "Felt hat": {
+      "name": "Filzhut"
+    },
+    "Wooden Pole": {
+      "name": "Holzstab"
+    },
+    "Jar of honey": {
+      "name": "Honigtopf"
+    },
+    "Tent": {
+      "name": "Zelt"
+    },
+    "Soap": {
+      "name": "Seife"
+    },
+    "Caltrops": {
+      "name": "Krähenfüße"
+    },
+    "Flask of coffee": {
+      "name": "Kaffeekanne"
+    },
+    "Padlock and Key": {
+      "name": "Vorhängeschloss und Schlüssel"
+    },
+    "Twine": {
+      "name": "Faden"
+    },
+    "Crowbar": {
+      "name": "Brecheisen"
+    },
+    "Fishing Hook": {
+      "name": "Angelhaken"
+    }
+  }
+}

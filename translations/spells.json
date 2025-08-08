@@ -1,0 +1,50 @@
+{
+  "label": "Zauber",
+  "entries": {
+    "Restore": {
+      "name": "Genesung"
+    },
+    "Invisibility": {
+      "name": "Unsichtbarkeit"
+    },
+    "Catnip": {
+      "name": "Katzenminze"
+    },
+    "Heal": {
+      "name": "Heilung"
+    },
+    "Grow": {
+      "name": "Wachstum"
+    },
+    "Darkness": {
+      "name": "Dunkelheit"
+    },
+    "Fireball": { 
+      "name": "Feuerball"
+    },
+    "Ghost Beetle": {
+      "name": "Geisterkäfer"
+    },
+    "Knock": {
+      "name": "Klopfen"
+    },
+    "Invisible Ring": {
+      "name": "Unsichtbarer Ring"
+    },
+    "Magic Missile": {
+      "name": "Magisches Geschoss"
+    },
+    "Light": {
+      "name": "Licht"
+    },
+    "Be Understood": {
+      "name": "Verständnis"
+    },
+    "Fear": {
+      "name": "Furcht"
+    },
+    "Grease": {
+      "name": "Schmieren"
+    }
+  }
+}

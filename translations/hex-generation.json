@@ -1,0 +1,20 @@
+{
+  "label": "Hexfeld-Generierung",
+  "entries": {
+    "Countryside": {
+      "name": "ländliche Gegend"
+    },
+    "Forest": {
+      "name": "Wald"
+    },
+    "Human Town": {
+      "name": "Menschenstadt"
+    },
+    "River": {
+      "name": "Fluss"
+    },
+    "Hex Type": {
+      "name": "Art des Hexfelds"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "label": "Zustände",
+  "entries": {
+    "Exhausted": {
+      "name": "Erschöpft"
+    },
+    "Drained": {
+      "name": "Entkräftet"
+    },
+    "Frightened": {
+      "name": "Ängstlich"
+    },
+    "Hungry": {
+      "name": "Hunrig"
+    },
+    "Injured": {
+      "name": "Verletzt"
+    },
+    "Custom": {
+      "name": "Maßgeschneidert"
+    }
+  }
+}

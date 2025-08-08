@@ -1,0 +1,47 @@
+{
+  "label": "Waffen",
+  "entries": {
+    "Axe": {
+      "name": "Axt"
+    },
+    "Bow": {
+      "name": "Bogen"
+    },
+    "Improvised": {
+      "name": "Improvisiert"
+    },
+    "Cleaver": {
+      "name": "Hackebeil"
+    },
+    "Hookarm": {
+      "name": "Enterhaken"
+    },
+    "Pick": {
+      "name": "Pickel"
+    },
+    "Hammer": {
+      "name": "Hammer"
+    },
+    "Sling": {
+      "name": "Schleuder"
+    },
+    "Sword": {
+      "name": "Schwert"
+    },
+    "Spear": {
+      "name": "Speer"
+    },
+    "Needle": {
+      "name": "Nadel"
+    },
+    "Mace": {
+      "name": "Morgenstern"
+    },
+    "Warhammer": {
+      "name": "Kriegshammer"
+    },
+    "Dagger": {
+      "name": "Dolch"
+    }
+  }
+}
