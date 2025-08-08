@@ -4,4 +4,5 @@ Hooks.once('babele.init', (babele) => {
       lang: 'de',
       dir: 'translations'
     });
+    console.log("babele-mausritter-de registered for translation.");
 });
