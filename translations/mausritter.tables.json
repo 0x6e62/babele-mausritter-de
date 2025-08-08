@@ -1,9 +1,9 @@
 {
-  "label": "Tabellen",
+  "label": "Tables",
   "entries": [
     {
       "id": "Birthsign",
-      "name": "Geburtszeichen",
+      "name": "Birthsign",
       "results": {
         "1-1": "Stern - Tapfer / Leichtsinnig",
         "2-2": "Rad - Fleißig / Fantasielos",
@@ -15,7 +15,7 @@
     },
     {
       "id": "Hex - Countryside",
-      "name": "Hexfeld - ländliche Gegend",
+      "name": "Hex - Countryside",
       "results": {
         "1-1": "Ameisenhaufen",
         "2-2": "Buche, vom Blitz gespalten",
@@ -41,7 +41,7 @@
     },
     {
       "id": "Hex - Forest",
-      "name": "Hexfeld - Wald",
+      "name": "Hex - Forest",
       "results": {
         "1-1": "Verlassene Hütte",
         "2-2": "Helle Lichtung",
@@ -67,7 +67,7 @@
     },
     {
       "id": "Hex - Human Town",
-      "name": "Hexfeld - Menschenstadt",
+      "name": "Hex - Human Town",
       "results": {
         "1-1": "Stillgelegtes Auto",
         "2-2": "Balkon",
@@ -93,7 +93,7 @@
     },
     {
       "id": "Hex - Landmark Details",
-      "name": "Hexfeld - Details einer Landmarke",
+      "name": "Hex - Landmark Details",
       "results": {
         "1-1": "Mäusesiedlung",
         "2-2": "Kleine Mäusefarm (Was bedroht ihre Ernte?)",
@@ -140,7 +140,7 @@
     },
     {
       "id": "Hex - River",
-      "name": "Hexfeld - Fluss",
+      "name": "Hex - River",
       "results": {
         "1-1": "Kanalschleuse",
         "2-2": "Zusammenfluss",
@@ -166,7 +166,7 @@
     },
     {
       "id": "Hex - Type",
-      "name": "Hexfeld - Art des Hexfelds",
+      "name": "Hex - Type",
       "results": {
         "1-1": "ländliche Gegend",
         "2-2": "Wald",
@@ -176,7 +176,7 @@
     },
     {
       "id": "Mousy Coat Color",
-      "name": "Fellfarbe",
+      "name": "Mousy Coat Color",
       "results": {
         "1-1": "Schokoladenbraun",
         "2-2": "Schwarz",
@@ -188,7 +188,7 @@
     },
     {
       "id": "Mousy Coat Pattern",
-      "name": "Fellmuster",
+      "name": "Mousy Coat Pattern",
       "results": {
         "1-1": "Einfarbig",
         "2-2": "Scheckig",
@@ -200,7 +200,7 @@
     },
     {
       "id": "Mousy Names - Birthname",
-      "name": "Mausige Namen - Geburtsname",
+      "name": "Mousy Names - Birthname",
       "results":{
         "1-1": "Ada",
         "2-2": "Agathe",
@@ -306,7 +306,7 @@
     },
     {
       "id": "Mousy Names - Matriname",
-      "name": "Mausige Namen - Matronym",
+      "name": "Mousy Names - Matriname",
       "results": {
         "1-1": "Butterball",
         "2-2": "Dorn",
@@ -332,7 +332,7 @@
     },
     {
       "id": "Non-player mice - Appearance",
-      "name": "Nebenfiguren - Erscheinung",
+      "name": "Non-player mice - Appearance",
       "results": {
         "1-1": "Schwermütiger Blick",
         "2-2": "Helle, geflickte Kleidung",
@@ -358,7 +358,7 @@
     },
     {
       "id": "Non-player mice - Birthsign and Disposition",
-      "name": "Nebenfiguren - Geburtszeichen und Charaktereigenschaft",
+      "name": "Non-player mice - Birthsign and Disposition",
       "results": {
         "1-1": "Stern - Tapfer / Leichtsinnig",
         "2-2": "Rad - Fleißig / Fantasielos",
@@ -370,7 +370,7 @@
     },
     {
       "id": "Non-player mice - Quirk",
-      "name": "Nebenfiguren - Marotte",
+      "name": "Non-player mice - Quirk",
       "results": {
         "1-1": "Kämmt sich ständig",
         "2-2": "Redet ständig über das Wetter",
@@ -396,7 +396,7 @@
     },
     {
       "id": "Non-player mice - Relationship",
-      "name": "Nebenfiguren - Beziehung",
+      "name": "Non-player mice - Relationship",
       "results": {
         "1-1": "Elternteil",
         "2-2": "Geschwisterkind",
@@ -422,7 +422,7 @@
     },
     {
       "id": "Non-player mice - Social position and Payment for service",
-      "name": "Nebenfiguren - Soziale Stand und Lohn für Dienstleistungen",
+      "name": "Non-player mice - Social position and Payment for service",
       "results": {
         "1-1": "Arm - W6 x 10 Kerne",
         "2-2": "Einfach - W6 x 10 Kerne",
@@ -434,7 +434,7 @@
     },
     {
       "id": "Non-player mice - Wants",
-      "name": "Nebenfiguren - Bedürfnis",
+      "name": "Non-player mice - Wants",
       "results": {
         "1-1": "Freiheit",
         "2-2": "Sicherheit",
@@ -460,7 +460,7 @@
     },
     {
       "id": "Physical detail",
-      "name": "Körperliches Merkmal",
+      "name": "Physical detail",
       "results": {
         "1-1": "Vernarbter Körper",
         "2-2": "Beleibter Körper",
@@ -502,7 +502,7 @@
     },
     {
       "id": "Weather Autumn",
-      "name": "Wetter Herbst",
+      "name": "Weather Autumn",
       "results": {
         "2-2": "Sturmböen (schlecht)",
         "3-5": "Starker Regen (schlecht)",
@@ -513,7 +513,7 @@
     },
     {
       "id": "Weather Spring",
-      "name": "Wetter Frühling",
+      "name": "Weather Spring",
       "results": {
         "2-2": "Regenschauer (schlecht)",
         "3-5": "Nieselregen",
@@ -524,7 +524,7 @@
     },
     {
       "id": "Weather Summer",
-      "name": "Wetter Sommer",
+      "name": "Weather Summer",
       "results": {
         "2-2": "Gewitter (schlecht)",
         "3-5": "Sehr heiß (schlecht)",
@@ -535,7 +535,7 @@
     },
     {
       "id": "Weather Winter",
-      "name": "Wetter Winter",
+      "name": "Weather Winter",
       "results": {
         "2-2": "Schneesturm (schlecht)",
         "3-5": "Schneeregen (schlecht)",
